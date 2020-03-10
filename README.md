@@ -1,18 +1,16 @@
-# Android kotlin-mvvm-covid19
-This repository contains simple COVID19 data monitoring with android stack MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, etc
+# CoronaVirus Monitoring Apps - Flutter
+
+CoronaVirus Monitoring Apps, fetch data from https://covid19.mathdro.id/api
 
 ![alt text](https://raw.githubusercontent.com/sulthanalihsan/corona_monitoring_apps/master/screenshot/ss.png)
 
-### Library References
-1. RxJava2 
-2. Koin 
-3. Retrofit
-4. RxBinding
-5. Hawk : https://github.com/orhanobut/hawk
-6. MPAndroidChart : https://github.com/PhilJay/MPAndroidChart
-7. Dexter : https://github.com/Karumi/Dexter
-8. SlidingUp Panel : https://github.com/umano/AndroidSlidingUpPanel
+### Get In On Google Play
+https://play.google.com/store/apps/details?id=sulthan.com.coronamonitorapps
 
+### Package References
+1. http
+2. Provider 
+3. Google Map Flutter
 
 ### License
 ```
