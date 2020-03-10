@@ -9,7 +9,7 @@ CoronaVirus Monitoring Apps, fetch data from https://covid19.mathdro.id/api
 2. Provider 
 3. Google Map Flutter
 
-### Get In On Google Play
+### Get In On Google Play (kalau engga disuspen😁)
 https://play.google.com/store/apps/details?id=sulthan.com.coronamonitorapps
 
 ### Get This UI Design On
