@@ -3,6 +3,7 @@
 
 ![alt text](https://raw.githubusercontent.com/sulthanalihsan/corona_monitoring_apps/master/screenshot/ss.png)
 
+### THIS PROJECT HAS BEEN CONTINUED IN THIS REPO https://github.com/codebanua/pantau_covid19_codebanua
 CoronaVirus Monitoring Apps, fetch data from https://covid19.mathdro.id/api
 
 ### Package References
